@@ -1,0 +1,33 @@
+html {
+    background-color: #d7edff;
+}
+.logo{
+    margin-left: 70px;
+    margin-top: 10px;
+    margin-bottom: 15px;
+    object-fit: contain;
+    height: 57px;
+  }
+footer{
+    background-color: #d7edff;
+}
+.subNav{
+    background-color: gainsboro;
+}
+body{
+    background-color: #d7edff;
+}
+.loginbtn{
+    margin-top: 10px
+
+}
+.navBtn{
+    background-color: black;
+    color: white;
+    border-color: white;
+}
+.warningReport{
+background: #ff1010;
+font-weight: bold;
+
+}
